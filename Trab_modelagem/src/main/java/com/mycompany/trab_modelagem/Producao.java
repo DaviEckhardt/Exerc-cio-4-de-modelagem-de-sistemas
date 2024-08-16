@@ -8,6 +8,12 @@ package com.mycompany.trab_modelagem;
  *
  * @author User
  */
+
+ /*
+    Davi Monken Eckhardt - 202265019AB
+    Lívia Faria Guirão - 202165087AB
+  */
+  
 public class Producao extends Papel {
     private String papelProducao;
 

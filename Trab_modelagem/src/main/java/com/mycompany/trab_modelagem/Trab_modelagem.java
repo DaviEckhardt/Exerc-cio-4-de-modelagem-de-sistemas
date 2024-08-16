@@ -8,6 +8,12 @@ package com.mycompany.trab_modelagem;
  *
  * @author User
  */
+
+ /*
+    Davi Monken Eckhardt - 202265019AB
+    Lívia Faria Guirão - 202165087AB
+  */
+  
 import java.util.Date;
 public class Trab_modelagem {
     public static void main(String[] args) {
