@@ -25,7 +25,7 @@ public class Trab_modelagem {
         Producao producao1 = new Producao("Anna Lee", "Produtora", "Produção Executiva");
         Producao producao2 = new Producao("Michael Bay", "Produtor", "Produção");
 
-        Filme filme = new Filme("A Grande Aventura", 2023, "Universal Pictures", "EUA", "2h30m", genero);
+        Filme filme = new Filme("Deadpool & Wolverine", 2024, "20th Century Studios", "EUA", "2h07m", genero);
         filme.addPapel(ator1);
         filme.addPapel(ator2);
         filme.addPapel(direcao);
